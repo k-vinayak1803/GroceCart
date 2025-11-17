@@ -1,4 +1,4 @@
-import Address from "../models/address.js"
+import Address from "../models/Address.js"
 import Order from "../models/Order.js"
 import Product from "../models/Product.js"
 import stripe from "stripe"
